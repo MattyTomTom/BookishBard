@@ -1,3 +1,3 @@
 Met by [[Vaelithra]] at Wisdom Weavers in [[Suzail]] in [[Session 6]].
-Silver Dragon, draconic name Otaaryliakkarnos
-![[Otaar.jpg]]
+
+![[Marlynis.jpg]]
