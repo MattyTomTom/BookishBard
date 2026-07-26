@@ -40,3 +40,5 @@
 > Obtained in [[Session 5]]
 > 
 > Eight members. Many missions. One name. What could it be?
+> 
+> Updated in [[Session 6]] - Looks like The Left Hand ain't it. Back to the drawing board.

@@ -84,6 +84,15 @@ The Party travels to [[Suzail]] to take part in the festivities of the "Ode to t
 > Updated in [[Session 4]] - Get to "Gold Level", more tests to come.
 
 - [[Ysgraviir]] and [[Forge]] team up to waltz around, where they are intercepted by a stern [[Prince Erzoured Obarskyr]]. The Prince demands an apology, and is offered a very sarcastic one by Ysgraviir. The Prince demands they come with him, and they follow to a temple to Selune. Erzoured is pissed about the whole throwing-daggers-at-a-citizen thing, and briefly feigns not knowing the citizen in question was Ysgraviir, who in turn feigns outrage. The Prince is not amused, and reveals that he also knows about the pair's sauna adventure, and indicates that a whole host of laws were broken. 5 at the very least. The Prince specifically accuses them of treasonous indecency, heinous deeds, partaking in an underground business, and carrying weapons without permit. In return for waiving the punishment for these crimes, the Prince charges the pair to discourage [[Ven]] from spending more time with [[Lady Sarya Crownsilver]], as it is staining her reputation.
+
+> [!Question]- Quest Updated! The Party: Purple Prying Eyes  
+> Obtained in [[Session 2]]
+> 
+> In the throne room, [[Ven]] spotted a man with brown hair and purple eyes spying on the group. May need to follow up on that guy.
+> 
+> Updated in [[Session 4]] - Those eyes belonged to non other than [[Prince Erzoured Obarskyr]], and HE followed up on US. Rascal.
+
+
 - [[Ven]] seeks out a temple of Selune, showing up after [[Prince Erzoured Obarskyr]] leaves. Encountering [[Ysgraviir]] and [[Forge]], he is informed of the charge to not speak to [[Lady Sarya Crownsilver]]. Ven gets downright indignant at this, and invites the two to join him at the Wide-Eyed Willow cafe, where he expects to find Sarya. They enter the cafe separately, and [[Ysgraviir]] and [[Forge]] join a table of ladies playing blackjack. [[Ven]], after finding [[Lady Sarya Crownsilver]] with a chaperone, sits to talk, initially concerned for her safety. After confirming her situation is simply the result of a spurned betrothal, Ven pops his top, openly disparaging the Royal Suzailian standards of courtship. Casting Enlarge on both Forge and Ysgraviir in a failed attempt to distract the chaperone, Ven leaves a book of poetry before being informed by Sarya that he is being way too extra. The scene ends with Ven, Ysgraviir and Forge being banned from the cafe.
 
 > [!question]- Quest Updated! Ven: What is Love?  

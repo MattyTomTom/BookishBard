@@ -20,7 +20,8 @@ Session 2:
 > Claim reward from Queen [[Queen Raedra Obarskyr]]
 
 Session 4:
-> [!success]- Quest Completed! The Party: Siege Obsessed!  
+
+> [!success]- Siege Obsessed!  
 > Obtained and updated in [[Session 2]]
 > 
 > Clear out the Castle ([[Gladehaven Keep]]) that [[Queen Raedra Obarskyr]] offered up
@@ -28,3 +29,10 @@ Session 4:
 > Updated in [[Session 3]] - The siege will take the Party to the Underdark!
 > 
 > Updated in [[Session 4]] - The Party defeated all the enemies inhabiting the cave.
+
+Session 6:
+
+> [!success]- The Beast Beckons
+>Half of the party ([[Ember]], [[Rook]], [[Tharrick]], and [[Forge]]) endeavors to entertain via violence.
+>
+>Update - They won! Was there ever any doubt? The four are owed gifts from [[Queen Raedra Obarskyr]] now.

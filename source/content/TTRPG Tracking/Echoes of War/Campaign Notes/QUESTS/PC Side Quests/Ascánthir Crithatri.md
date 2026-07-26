@@ -2,6 +2,8 @@
 > Obtained in [[Session 2]]
 > 
 > Dude's broke. Something about inflation.
+> 
+> Updated in [[Session 6]] - [[Ascánthir]] has an allowance. Stonks.
 
 > [!question]- Panic Buying Bread and Milk  
 > Obtained in [[Session 2]]
