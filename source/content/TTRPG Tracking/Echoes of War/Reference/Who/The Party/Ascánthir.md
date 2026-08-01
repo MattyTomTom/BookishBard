@@ -8,3 +8,5 @@ Accompanied by his [[Grandsire Na’thaniél]] and his familiar [[Brannon]]
 222 years old.
 
 Half sun elf, half moon elf.
+
+Father ([[Castamere Crithatri]]) is trapped in a phylactery owned by a Lich named Morgoloth

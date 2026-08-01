@@ -17,7 +17,6 @@
 > 
 > Update from [[Session 4]] - . . . not like that.
 
-
 > [!question]- Spend it all in One Place  
 > Obtained in [[Session 2]]
 > 
@@ -36,9 +35,18 @@
 > 
 > Updated in [[Session 5]] - Why did we study q before g?
 
+> [!Question]- An Obarskyrian Obligation 
+> Obtained in [[Session 5]]
+> [[Ven]] owes [[Prince Erzoured Obarskyr]] a favor for meddling into noble courtship affairs.
+
 > [!question]- Every Band Needs a Name
 > Obtained in [[Session 5]]
 > 
 > Eight members. Many missions. One name. What could it be?
 > 
 > Updated in [[Session 6]] - Looks like The Left Hand ain't it. Back to the drawing board.
+
+> [!question]- Dumb & Poetic  
+> Obtained in [[Session 6]]
+> 
+> [[Ven]] is indebted to the most famous bard in [[Cormyr]]. Hopefully, [[Zabrina Carpenterbee]] is easy to work with, but [[Ven]] isn't known for good decision making skills with the fairer sex. Please, please, please, don't prove I'm right.

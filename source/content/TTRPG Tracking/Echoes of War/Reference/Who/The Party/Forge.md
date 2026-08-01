@@ -5,7 +5,7 @@ Devotion Paladin
 
 Was once enslaved.
 
-Mentored by a guy named Silas.
+Mentored by a paladin named [[Sylas]]
 
 Doesn't follow a specific god, but is thankful for who or whatever empowers him.
 

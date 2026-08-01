@@ -5,3 +5,5 @@ Cleric
 Loves a good tavern brawl.
 
 Follows Eldath.
+
+Hates the Red Right Hand.

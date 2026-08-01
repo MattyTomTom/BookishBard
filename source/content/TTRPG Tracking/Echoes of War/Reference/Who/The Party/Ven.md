@@ -1,9 +1,7 @@
 ![[Ven.png]]
 College of the Moon Bard
 
+Was married to [[Silphane]]
 
-
-Silphane (Wife)
-![[Silphane.png]]
 
 [[Ven Kallix]] Side Quest Info
