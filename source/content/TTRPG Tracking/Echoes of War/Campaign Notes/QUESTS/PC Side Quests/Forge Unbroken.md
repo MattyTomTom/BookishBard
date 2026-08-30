@@ -23,3 +23,5 @@
 > Update - Not sure where this is going. Subterfuge via date night? Irelyn doesn't seem so bad I guess.
 > 
 > Updated again - [[Ascánthir]] joins the quest.
+> 
+> Updated in [[Session 7]] - Well the mystery is solved as far as THIS quest is concerned, but is it any of Vance's business?

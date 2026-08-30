@@ -112,7 +112,7 @@ The Party brings their heads together on the issue of The Hand, and all agree to
 > [!question]- Quest Updated! The Party: The Right Hand Sins, So Cut it Off
 > Obtained in [[Session 2]]
 > 
-> When a [[Rook]] says someone's evil, believe him.
+> When a Paladin says someone's evil, believe him.
 > 
 > Updated in [[Session 3]] - Not much new info, just that Forge really doesn't care for this group.
 > 

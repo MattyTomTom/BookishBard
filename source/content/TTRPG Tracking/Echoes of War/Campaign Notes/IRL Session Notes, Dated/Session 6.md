@@ -14,7 +14,7 @@ The party awakes in the [[Red Herring Inn & Tavern]], having had a much needed r
 > [!question]- Quest Updated! The Party: The Right Hand Sins, So Cut it Off
 > Obtained in [[Session 2]]
 > 
-> When a [[Rook]] says someone's evil, believe him.
+> When a Paladin says someone's evil, believe him.
 > 
 > Updated in [[Session 3]] - Not much new info, just that Forge really doesn't care for this group.
 > 
@@ -83,7 +83,7 @@ The party awakes in the [[Red Herring Inn & Tavern]], having had a much needed r
 > [!question]- Quest Updated! The Party: The Right Hand Sins, So Cut it Off
 > Obtained in [[Session 2]]
 > 
-> When a [[Rook]] says someone's evil, believe him.
+> When a Paladin says someone's evil, believe him.
 > 
 > Updated in [[Session 3]] - Not much new info, just that Forge really doesn't care for this group.
 > 
