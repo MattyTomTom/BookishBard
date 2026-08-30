@@ -18,3 +18,8 @@
 > Literally was almost banged to death. Someone talk some sense into this man.
 > 
 > Updated in [[Session 5]] - And again, to the tune of 23 psychic damage.
+
+> [!question]- It's Not Goodbye, It's See You Later  
+> Obtained in [[Session 7]]
+> 
+> He'll be back. He's just a guy, after all.

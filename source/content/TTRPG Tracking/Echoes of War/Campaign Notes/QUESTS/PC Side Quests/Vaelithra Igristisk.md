@@ -12,4 +12,6 @@
 > Updated in [[Session 4]] - Get to "Gold Level", more tests to come.
 > 
 > Updated in [[Session 6]] - Surely talking to a Dragon gets you somewhere in this religion? Spoke to [[Otaar]], a Dragon with a hoard of dead people sucked into rocks.
+> 
+> Updated in [[Session 7]] - [[Verdix]] can talk to Bahamut!
 

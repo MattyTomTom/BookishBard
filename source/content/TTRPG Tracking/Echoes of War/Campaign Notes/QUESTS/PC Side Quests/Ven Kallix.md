@@ -50,3 +50,5 @@
 > Obtained in [[Session 6]]
 > 
 > [[Ven]] is indebted to the most famous bard in [[Cormyr]]. Hopefully, [[Zabrina Carpenterbee]] is easy to work with, but [[Ven]] isn't known for good decision making skills with the fairer sex. Please, please, please, don't prove I'm right.
+> 
+> Updated in [[Session 7]] - Evidently [[Ven]] is owed a debt, but feywild wishes are dangerous business. [[Ascánthir]] has been called in to help.
